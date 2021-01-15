@@ -18,7 +18,7 @@ services:
             dockerfile: ./docker/php/Dockerfile-php_prod
         environment:
             APP_ENV: prod
-            DATABASE_URL: mysql://root:secret@mysql:3306/symfony
+            DATABASE_URL: mysql://angry-bird:<user-password>@54.78.103.153:3306/symfony-test
         expose:
             - 9000
         networks:
