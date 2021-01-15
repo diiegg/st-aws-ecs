@@ -3,7 +3,7 @@
 ## Navigation
 
 - main: Synfony Docker File.
-- production-env: Setting a production env for synfoy app.
+- production: Setting a production env for symfoy app.
 - ecs-temp: Cloud foundation templates.
 
 
