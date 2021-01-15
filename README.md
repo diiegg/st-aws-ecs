@@ -2,9 +2,9 @@
 
 ## Navigation
 
-main: Synfony Docker File
-production-env: Setting a production env for synfoy app
-ecs-temp: Cloud foundation templates
+- main: Synfony Docker File.
+- production-env: Setting a production env for synfoy app.
+- ecs-temp: Cloud foundation templates.
 
 
 ## How to Dockerize a synfony app from scratch
