@@ -19,12 +19,12 @@ This tutorial is running on a Linux machine.
 **Project structure:**
 
 (project folder)
-      |-------Docker
-                         |------nhinx
-                         |------php 
-       |------dbfolder
-       |------synfony
-       |------docker-compose.yml
+      |-------Docker.
+                         |------nhinx.
+                         |------php.
+       |------dbfolder.
+       |------synfony.
+       |------docker-compose.yml.
     
 Create folder to configure the docker files called Docker
 
