@@ -2,9 +2,9 @@
 
 ## Navigation
 
-- main: Synfony Docker File.
-- production: Setting a production env for symfoy app.
-- ecs-temp: Cloud foundation templates.
+main: Synfony Docker File
+production-env: Setting a production env for synfoy app
+ecs-temp: Cloud foundation templates
 
 
 ## How to Dockerize a synfony app from scratch
@@ -18,13 +18,8 @@ This tutorial is running on a Linux machine.
 
 **Project structure:**
 
-(project folder)
-      |-------Docker.
-                         |------nhinx.
-                         |------php.
-       |------dbfolder.
-       |------synfony.
-       |------docker-compose.yml.
+![enter image description here](https://user-images.githubusercontent.com/12648295/104716594-0f2b5480-5720-11eb-8d99-067d69c6805c.png)
+
     
 Create folder to configure the docker files called Docker
 
